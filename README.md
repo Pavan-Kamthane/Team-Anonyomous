@@ -12,6 +12,12 @@ How Our Portal Works:
 3. Industry Experts: Industry experts bring real-world insights to the table, helping design Curriculum that align with industry needs and trends.
 4. Educators: The input of experienced educators is invaluable in shaping Curriculum that cater to the best pedagogical practices.
 
+
+Benifits:
+
+![image](https://github.com/Pavan-Kamthane/Team-Anonyomous/assets/95903010/3ed9da3e-eb70-43c3-807c-f1429ac672e5)
+
+
 Dependencies:
 
 - AICTE Model Curriculum: The portal relies on the AICTE model Curriculum to set the stage for Curriculum development.
@@ -21,6 +27,9 @@ Dependencies:
 - Security: Security is paramount. We ensure secure local data storage with encryption in offline mode to safeguard user information and Curriculum designs.
 
 Workflow:
+
+![image](https://github.com/Pavan-Kamthane/Team-Anonyomous/assets/95903010/d9c7ceca-41a2-47cd-9137-981862e15ce9)
+
 
 1. Login/Register: Users can create accounts, setting the stage for an interactive journey.
 2. Personalized Dashboard: Enjoy a customized dashboard, providing a clear overview and easy access to relevant features based on user roles and preferences.

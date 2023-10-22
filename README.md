@@ -1,7 +1,7 @@
 # Team-Anonyomous
 
 
-# Idea Description
+## Idea Description
 
 Introducing the Unified Portal for Curriculum Design, a cutting-edge and user-friendly platform aimed at revolutionizing education in India. This portal serves as the perfect solution to streamline Curriculum development for technical institutes under the purview of the All India Council for Technical Education (AICTE). With the goal of enhancing the educational experience and aligning with global standards, our platform invites educational experts, curriculum designers, administrators, and universities to collaborate seamlessly.
 
